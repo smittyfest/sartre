@@ -3,7 +3,6 @@
 (println "====================")
 (println "Welcome to Sartre   ")
 (println "Version: 0.0.1      ")
-(println "Platform: x86_64/OSX")
 (println "====================")
 
 (while true
