@@ -15,5 +15,3 @@ http://www.lamdu.org/
 https://ioke.org/
 
 http://www.antlr.org/
-
-This Software is provided "as-is" with absolutely no warranties.
